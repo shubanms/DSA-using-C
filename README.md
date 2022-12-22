@@ -1,2 +1,13 @@
-# DSA-using-C
-Using C programming to learn about different Data structures and algorithms 
+
+# Data Structures and algorithms
+
+This contains files for basic data structures in C programming and few algorithms for sorting.
+
+
+## Contributing
+
+Contributions are always welcome!
+
+## Authors
+
+- [@shubanms](https://github.com/shubanms)
